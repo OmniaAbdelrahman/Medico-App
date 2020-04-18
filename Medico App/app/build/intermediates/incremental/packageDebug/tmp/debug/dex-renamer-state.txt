@@ -1,0 +1,10 @@
+#Fri Aug 02 02:02:39 EET 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\Taher\\Downloads\\Compressed\\Medical-android-app-master\\android pro\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.1=C\:\\Users\\Taher\\Downloads\\Compressed\\Medical-android-app-master\\android pro\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.0=C\:\\Users\\Taher\\Downloads\\Compressed\\Medical-android-app-master\\android pro\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out

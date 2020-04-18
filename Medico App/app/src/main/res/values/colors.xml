@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5EA9FA</color>
+    <color name="colorPrimaryDark">#058ECE</color>
+    <color name="colorPrimaryDarkk">#FFFEFE</color>
+    <color name="colorAccent">#333551</color>
+    <color name="ButtonColor">#2474E4</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimary2">#3F51B5</color>
+    <color name="colorPrimaryDark2">#303F9F</color>
+    <color name="colorAccent2">#C6E2FF</color>
+    <color name="textcolor">#0A0A0A</color>
+    <color name="address">#3A0642</color>
+    <color name="followers">#124E7A</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="cicleBorder">#50FFFFFF</color>
+
+    <color name="gradEnd">#071568</color>
+    <color name="gradStart">#8491CF</color>
+
+    <color name="followersBg">#65DCE5</color>
+    <color name="followingBG">#49BEFF</color>
+    <color name="grey">#EDBFBFC2</color>
+    <color name="grey2">#D8D8E2</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

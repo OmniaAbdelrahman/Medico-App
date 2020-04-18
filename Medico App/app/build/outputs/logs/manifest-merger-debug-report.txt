@@ -1,0 +1,729 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d2fbe25cf7d791ff896c7bedbfadcd6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3413e250d2811455cd4d9343e419e736\AndroidManifest.xml:17:1-24:12
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac1de5648485dc499751e6514c9236cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jackandphantom.android:circularimageview:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9915ef5196d42a27e21d2517d562020b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\20d09dad893922e8fbaebeeb75780ab9\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e847b3205188ee513c9deea5424a0133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\832b69158e1d27d6c54bf9cac900275c\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9502cc1844a6b633b8b7cdfb9765dfe2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\cf45f949ed6f60246b83e23c7c903dd2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4b5d9adcc85c90be0ea0bb71296afe8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a500df230087d934ebb62d712dd6a821\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75fa041c096152ef4ef2e2f29099ccf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c15463e296a5bde894db69693828b674\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d3c6b76c3a7900a87f558e1faa1944dd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\914a85c96e3794b65471a9a05450ee00\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\99176277e693a010bd35cafd04009ea0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\15d4295f7c74f8351bf6889a9002f2f6\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\960d965561733bd39c8abea1f0972e43\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b839f9d38c925ed86d80b549e6ee710e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\46f53807ab4ba711054fb08e59295ed2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6ea60ce7168432b586a9b8ee9c8fddeb\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06e12f540fe36a103198e300ccae5085\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06668b2597c2ba33e77f971064e561df\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2259a2df6cefaf7d2600036f6c811e8b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c492ab18c0c8ee05453cf26333557154\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac683c401c6f55b8d6dd2bc2df9d060f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c163a232185c7f0b9c8e630b8819de5f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\da29012b78359b0b2cec44b37ce515cf\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\47e13fa856b2981318813ab091e07553\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4246accc736e18af35fcb46564215ca4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\366952b591cca3f658a5799b13cb30f9\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a93ef75f65d623ff711a2d5d78706ca3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae1d9b674c6728b732b102e8dbbe43cc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\165d8a3eb54385520f9763541b51601b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a5961651f8db16f3e7c7fc67aeeadd57\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae5ea7145c16ba33379d52f8eafbfaf3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c278fc45d974ddc68a389022075221f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c3032531634bc2cfbfa2a50100c0dce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bd39d58e894fcad5f76541f806456ca3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\79b182103812bb9282ea7592b3daa817\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e22be241d72ecca09a666d89318ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\17422ccd48f5168f6dbaf6c7fba90928\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\fd002e1a86bf9adbb12610b9a5e2e664\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\584c0e4483bc13c859629d1efbf98776\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a4d04eeb477e577146cd982158cee594\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e594bdc2fb0a893f99a33af1b34e9f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5bfae7db8e49dd08da4cdec7ddf5b626\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b5bcac757e5c22bf17f0a57f0c89dfb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4142f55848e485cba85ba7e785889a29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\577e6fad963d56134bd71d131d290c34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\f67d51c4d19d0b5426418ece80b93b07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\02444695af47d6b7fb478db6e6627ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b500719087136252f48aed5afdc71a0e\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\063134a98a576bae4d33f76185032633\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d150e99a0bcb7d4663840c17e4548410\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bf3b4d342a4dfe7ed4c163cc774446a4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\050e6fff7e32f9dd235011b688d8e7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf6681ba6d94e54ed316c61ec778958\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d0655aca02b906a5ede9ce62392cd0dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\373bc078702b7e7f6c2ceac6172ea2c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e2ed1af06aa6af783daa376efeb92acb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a61d84129bfc8b8b90d3d42f1660432d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7e3d68fb2948f31abf05025fdc8be084\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8dff1245f98b936698737df833b53389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5dd6d7f38fc0fd108c265afc840851e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75471722abf44383c83406eb0050d77f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\564642df802c49e90f49797fc7ccb74d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7547a6549178d212744077581b5ee4c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a174ac8b325ea4f3d66842a7e75538e1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6cdd48d7d988de2afd4a64238ea6f3d1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\60cb9f1d6b78c85d41ca817828771c14\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9d38fa3a4028e6c792c628ffad78bd71\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\eb84afaa02ff6c1bfe7ac7607d0bbd4b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bade3812e54cdba9836320c866afbb3e\AndroidManifest.xml:2:1-13:12
+MERGED from [me.relex:photodraweeview:1.1.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3111e7ed9525361dda44320c7dfd1fab\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4246accc736e18af35fcb46564215ca4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4246accc736e18af35fcb46564215ca4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:13:5-68:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3413e250d2811455cd4d9343e419e736\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3413e250d2811455cd4d9343e419e736\AndroidManifest.xml:22:5-20
+MERGED from [com.jackandphantom.android:circularimageview:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9915ef5196d42a27e21d2517d562020b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.jackandphantom.android:circularimageview:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9915ef5196d42a27e21d2517d562020b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\832b69158e1d27d6c54bf9cac900275c\AndroidManifest.xml:12:5-20
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\832b69158e1d27d6c54bf9cac900275c\AndroidManifest.xml:12:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9502cc1844a6b633b8b7cdfb9765dfe2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9502cc1844a6b633b8b7cdfb9765dfe2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\cf45f949ed6f60246b83e23c7c903dd2\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\cf45f949ed6f60246b83e23c7c903dd2\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:22:5-37:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d3c6b76c3a7900a87f558e1faa1944dd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d3c6b76c3a7900a87f558e1faa1944dd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\960d965561733bd39c8abea1f0972e43\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\960d965561733bd39c8abea1f0972e43\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:23:5-40:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06e12f540fe36a103198e300ccae5085\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06e12f540fe36a103198e300ccae5085\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac683c401c6f55b8d6dd2bc2df9d060f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac683c401c6f55b8d6dd2bc2df9d060f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c163a232185c7f0b9c8e630b8819de5f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c163a232185c7f0b9c8e630b8819de5f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\da29012b78359b0b2cec44b37ce515cf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\da29012b78359b0b2cec44b37ce515cf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\47e13fa856b2981318813ab091e07553\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\47e13fa856b2981318813ab091e07553\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a93ef75f65d623ff711a2d5d78706ca3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a93ef75f65d623ff711a2d5d78706ca3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae1d9b674c6728b732b102e8dbbe43cc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae1d9b674c6728b732b102e8dbbe43cc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\165d8a3eb54385520f9763541b51601b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\165d8a3eb54385520f9763541b51601b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a5961651f8db16f3e7c7fc67aeeadd57\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a5961651f8db16f3e7c7fc67aeeadd57\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae5ea7145c16ba33379d52f8eafbfaf3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae5ea7145c16ba33379d52f8eafbfaf3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c278fc45d974ddc68a389022075221f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c278fc45d974ddc68a389022075221f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b500719087136252f48aed5afdc71a0e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b500719087136252f48aed5afdc71a0e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bf3b4d342a4dfe7ed4c163cc774446a4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bf3b4d342a4dfe7ed4c163cc774446a4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a174ac8b325ea4f3d66842a7e75538e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a174ac8b325ea4f3d66842a7e75538e1\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bade3812e54cdba9836320c866afbb3e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bade3812e54cdba9836320c866afbb3e\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:20:9-52
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:14:9-38
+activity#com.example.medicalapp.Sign_up
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:22:19-42
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.medicalapp.Doctors.map_dr
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:35:9-37:61
+	android:label
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:36:13-43
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:40:13-58
+activity#com.example.medicalapp.HomeActivity
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:43:9-47:63
+	android:screenOrientation
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:47:13-51
+	android:label
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:46:13-56
+	android:configChanges
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:44:13-41
+activity#com.example.medicalapp.SplashActivity
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:48:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.medicalapp.LogInActivity
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:55:9-51
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:55:19-48
+meta-data#preloaded_fonts
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:57:9-59:57
+	android:resource
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:58:13-43
+activity#com.example.medicalapp.alarm.showalaram
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:61:9-54
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:61:19-51
+activity#com.example.medicalapp.alarm.alarminfo
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:62:9-53
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:62:19-50
+receiver#com.example.medicalapp.alarm.broadcasralarm
+ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:64:9-67:39
+	android:enabled
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml:65:13-49
+uses-sdk
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d2fbe25cf7d791ff896c7bedbfadcd6a\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d2fbe25cf7d791ff896c7bedbfadcd6a\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3413e250d2811455cd4d9343e419e736\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3413e250d2811455cd4d9343e419e736\AndroidManifest.xml:20:5-44
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac1de5648485dc499751e6514c9236cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac1de5648485dc499751e6514c9236cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jackandphantom.android:circularimageview:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9915ef5196d42a27e21d2517d562020b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jackandphantom.android:circularimageview:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9915ef5196d42a27e21d2517d562020b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\20d09dad893922e8fbaebeeb75780ab9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\20d09dad893922e8fbaebeeb75780ab9\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e847b3205188ee513c9deea5424a0133\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e847b3205188ee513c9deea5424a0133\AndroidManifest.xml:20:5-44
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\832b69158e1d27d6c54bf9cac900275c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\832b69158e1d27d6c54bf9cac900275c\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9502cc1844a6b633b8b7cdfb9765dfe2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9502cc1844a6b633b8b7cdfb9765dfe2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\cf45f949ed6f60246b83e23c7c903dd2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\cf45f949ed6f60246b83e23c7c903dd2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4b5d9adcc85c90be0ea0bb71296afe8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4b5d9adcc85c90be0ea0bb71296afe8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a500df230087d934ebb62d712dd6a821\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a500df230087d934ebb62d712dd6a821\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75fa041c096152ef4ef2e2f29099ccf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75fa041c096152ef4ef2e2f29099ccf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c15463e296a5bde894db69693828b674\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c15463e296a5bde894db69693828b674\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d3c6b76c3a7900a87f558e1faa1944dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d3c6b76c3a7900a87f558e1faa1944dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\914a85c96e3794b65471a9a05450ee00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\914a85c96e3794b65471a9a05450ee00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\99176277e693a010bd35cafd04009ea0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\99176277e693a010bd35cafd04009ea0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\15d4295f7c74f8351bf6889a9002f2f6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\15d4295f7c74f8351bf6889a9002f2f6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\960d965561733bd39c8abea1f0972e43\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\960d965561733bd39c8abea1f0972e43\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b839f9d38c925ed86d80b549e6ee710e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b839f9d38c925ed86d80b549e6ee710e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\46f53807ab4ba711054fb08e59295ed2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\46f53807ab4ba711054fb08e59295ed2\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6ea60ce7168432b586a9b8ee9c8fddeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6ea60ce7168432b586a9b8ee9c8fddeb\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06e12f540fe36a103198e300ccae5085\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06e12f540fe36a103198e300ccae5085\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06668b2597c2ba33e77f971064e561df\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\06668b2597c2ba33e77f971064e561df\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2259a2df6cefaf7d2600036f6c811e8b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2259a2df6cefaf7d2600036f6c811e8b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c492ab18c0c8ee05453cf26333557154\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c492ab18c0c8ee05453cf26333557154\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac683c401c6f55b8d6dd2bc2df9d060f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ac683c401c6f55b8d6dd2bc2df9d060f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c163a232185c7f0b9c8e630b8819de5f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c163a232185c7f0b9c8e630b8819de5f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\da29012b78359b0b2cec44b37ce515cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\da29012b78359b0b2cec44b37ce515cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\47e13fa856b2981318813ab091e07553\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\47e13fa856b2981318813ab091e07553\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4246accc736e18af35fcb46564215ca4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4246accc736e18af35fcb46564215ca4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\366952b591cca3f658a5799b13cb30f9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\366952b591cca3f658a5799b13cb30f9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a93ef75f65d623ff711a2d5d78706ca3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a93ef75f65d623ff711a2d5d78706ca3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae1d9b674c6728b732b102e8dbbe43cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae1d9b674c6728b732b102e8dbbe43cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\165d8a3eb54385520f9763541b51601b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\165d8a3eb54385520f9763541b51601b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a5961651f8db16f3e7c7fc67aeeadd57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a5961651f8db16f3e7c7fc67aeeadd57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae5ea7145c16ba33379d52f8eafbfaf3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\ae5ea7145c16ba33379d52f8eafbfaf3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c278fc45d974ddc68a389022075221f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c278fc45d974ddc68a389022075221f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\aa8a13ea27edf32f9cbe5fb31a96ae6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c3032531634bc2cfbfa2a50100c0dce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9c3032531634bc2cfbfa2a50100c0dce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bd39d58e894fcad5f76541f806456ca3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bd39d58e894fcad5f76541f806456ca3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\79b182103812bb9282ea7592b3daa817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\79b182103812bb9282ea7592b3daa817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e22be241d72ecca09a666d89318ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e22be241d72ecca09a666d89318ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\17422ccd48f5168f6dbaf6c7fba90928\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\17422ccd48f5168f6dbaf6c7fba90928\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\fd002e1a86bf9adbb12610b9a5e2e664\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\fd002e1a86bf9adbb12610b9a5e2e664\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\584c0e4483bc13c859629d1efbf98776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\584c0e4483bc13c859629d1efbf98776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a4d04eeb477e577146cd982158cee594\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a4d04eeb477e577146cd982158cee594\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e594bdc2fb0a893f99a33af1b34e9f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e594bdc2fb0a893f99a33af1b34e9f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5bfae7db8e49dd08da4cdec7ddf5b626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5bfae7db8e49dd08da4cdec7ddf5b626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b5bcac757e5c22bf17f0a57f0c89dfb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b5bcac757e5c22bf17f0a57f0c89dfb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4142f55848e485cba85ba7e785889a29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\4142f55848e485cba85ba7e785889a29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\577e6fad963d56134bd71d131d290c34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\577e6fad963d56134bd71d131d290c34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\f67d51c4d19d0b5426418ece80b93b07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\f67d51c4d19d0b5426418ece80b93b07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\02444695af47d6b7fb478db6e6627ff3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\02444695af47d6b7fb478db6e6627ff3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7d14cc0c1e2cf041ecb5b787ca504e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b500719087136252f48aed5afdc71a0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\b500719087136252f48aed5afdc71a0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\063134a98a576bae4d33f76185032633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\063134a98a576bae4d33f76185032633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d150e99a0bcb7d4663840c17e4548410\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d150e99a0bcb7d4663840c17e4548410\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bf3b4d342a4dfe7ed4c163cc774446a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bf3b4d342a4dfe7ed4c163cc774446a4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\050e6fff7e32f9dd235011b688d8e7e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\050e6fff7e32f9dd235011b688d8e7e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf6681ba6d94e54ed316c61ec778958\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf6681ba6d94e54ed316c61ec778958\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d0655aca02b906a5ede9ce62392cd0dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d0655aca02b906a5ede9ce62392cd0dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\373bc078702b7e7f6c2ceac6172ea2c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\373bc078702b7e7f6c2ceac6172ea2c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e2ed1af06aa6af783daa376efeb92acb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e2ed1af06aa6af783daa376efeb92acb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a61d84129bfc8b8b90d3d42f1660432d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a61d84129bfc8b8b90d3d42f1660432d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7e3d68fb2948f31abf05025fdc8be084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7e3d68fb2948f31abf05025fdc8be084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8dff1245f98b936698737df833b53389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8dff1245f98b936698737df833b53389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5dd6d7f38fc0fd108c265afc840851e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\5dd6d7f38fc0fd108c265afc840851e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75471722abf44383c83406eb0050d77f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\75471722abf44383c83406eb0050d77f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\564642df802c49e90f49797fc7ccb74d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\564642df802c49e90f49797fc7ccb74d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7547a6549178d212744077581b5ee4c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7547a6549178d212744077581b5ee4c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a174ac8b325ea4f3d66842a7e75538e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\a174ac8b325ea4f3d66842a7e75538e1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6cdd48d7d988de2afd4a64238ea6f3d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\6cdd48d7d988de2afd4a64238ea6f3d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\60cb9f1d6b78c85d41ca817828771c14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\60cb9f1d6b78c85d41ca817828771c14\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9d38fa3a4028e6c792c628ffad78bd71\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\9d38fa3a4028e6c792c628ffad78bd71\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\eb84afaa02ff6c1bfe7ac7607d0bbd4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\eb84afaa02ff6c1bfe7ac7607d0bbd4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bade3812e54cdba9836320c866afbb3e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\bade3812e54cdba9836320c866afbb3e\AndroidManifest.xml:7:5-9:41
+MERGED from [me.relex:photodraweeview:1.1.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3111e7ed9525361dda44320c7dfd1fab\AndroidManifest.xml:8:5-44
+MERGED from [me.relex:photodraweeview:1.1.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3111e7ed9525361dda44320c7dfd1fab\AndroidManifest.xml:8:5-44
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\c15463e296a5bde894db69693828b674\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taher\Downloads\Compressed\Medical-android-app-master\android pro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\69128125e1b456fbce0b99ca588dccc2\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\22e7ddce0376efe784d87afe5a8c721b\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d40fb1941e39fb5b1670b0250bdf0121\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\dce5a34bbeb15c29f64a12505e6ad027\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3e8747a0c49fbfc06a1c802c84143a22\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\78a12fc62d8469772aaab5d016253d00\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\7273841bd1b3f32c893eaab0cb2dc955\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\d34ae96108214044e5a0ce5a6de7d02c\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\8cf3abc4af233526c0a7078cc2b0936d\AndroidManifest.xml:30:13-65
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\e9c42c6c4f50cce2f7fe0d55759e58b3\AndroidManifest.xml:11:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\3cd9e8262ce14c74bb4ca4fe7833a3b6\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\2440008dcef0410982c9dfe8ded36815\AndroidManifest.xml:49:13-87
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Taher\.gradle\caches\transforms-2\files-2.1\55c54125bd20ac9bb7771ed148583c99\AndroidManifest.xml:24:13-79

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "903309501757",
+    "firebase_url": "https://testandroid-2282d.firebaseio.com",
+    "project_id": "testandroid-2282d",
+    "storage_bucket": "testandroid-2282d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903309501757:android:d6a73b354b516f5c",
+        "android_client_info": {
+          "package_name": "com.example.endmedicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_A1FYy53gbLG03uAzHNxomUKh3HgDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903309501757:android:6fdde6a33496963e",
+        "android_client_info": {
+          "package_name": "com.example.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_A1FYy53gbLG03uAzHNxomUKh3HgDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903309501757:android:b531295852392f9e",
+        "android_client_info": {
+          "package_name": "com.example.testandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_A1FYy53gbLG03uAzHNxomUKh3HgDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903309501757-u4gi4h9gpgdbcrv9eufqio3nrp00qpg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
